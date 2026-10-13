@@ -2,7 +2,6 @@
 
 # 📊 Superstore Sales — Interactive Excel Dashboard
 
-### *From raw CSV to a clean, formula-driven, fully interactive dashboard — zero formula errors.*
 
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Dataset](https://img.shields.io/badge/Dataset-Kaggle%20Superstore-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
