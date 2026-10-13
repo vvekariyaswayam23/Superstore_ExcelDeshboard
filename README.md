@@ -55,9 +55,7 @@ Everything is **formula-driven** — no hard-coded results — so every KPI, cha
 > 💡 *Add a screenshot of your dashboard to an `images/` folder and it will show up here.*
 
 <div align="center">
-
-![Dashboard Preview](<img width="567" height="448" alt="Dashboard" src="https://github.com/user-attachments/assets/3550026a-3a40-4b5f-a638-09783bb4617b" />
-)
+(<img width="567" height="448" alt="Dashboard" src="https://github.com/user-attachments/assets/3550026a-3a40-4b5f-a638-09783bb4617b" />)
 
 </div>
 
